@@ -168,7 +168,8 @@ This project is licensed under the ISC License.
 
 ## 👨‍💻 Author
 
-Your Name - [Your GitHub Profile]
+Justin John 
+https://github.com/log1cakez
 
 ## 🙏 Acknowledgments
 
